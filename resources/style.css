@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(245, 238, 238);
+    background-color: rgb(243, 233, 233);
 }
 .container-md {
     background-color: white;
@@ -8,8 +8,9 @@ body {
     padding-bottom: 15px;
 }
 
-
-
+hr{
+    border: 1px solid rgb(63, 61, 61);
+}
 
 .navbar-brand {
     background-color: rgb(18, 168, 168);
@@ -28,20 +29,24 @@ body {
 
 .myHeader {
     font-family: serif;
-   
 }
 
-.myPortfolio {
-    border: 3 solid tomato;
+@media (min-width: 768px)  {
+    .container-md {
+        width: 70vh;
+    
+    }
+}
+@media (min-width: 1439px) {
+    .container-md {
+        width: 70vh;
+        
+    }
 }
 
-
-li {
-    float: left;
-  }
-  
-  li a {
-    display: inline;
-  
-   
-  }
+@media (min-width: 1024px) {
+    .container-md {
+        width: 50vh;
+        
+    }
+}
