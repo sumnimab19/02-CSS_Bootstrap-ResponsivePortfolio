@@ -2,19 +2,20 @@
 body {
     background-color: rgb(245, 238, 238);
 }
-.container {
+.container-md {
     background-color: white;
     width: 90%;
     padding-bottom: 15px;
 }
 
-.myBrand {
-    font-family: serif;
-}
 
 
-.navbar-header {
+
+.navbar-brand {
     background-color: rgb(18, 168, 168);
+    width: 100%;
+    text-align: center;
+    font-family: serif;
 }
 
 .myPicture {
@@ -24,3 +25,23 @@ body {
 .myFooter {
     border-top: 7px solid  rgb(18, 168, 168);
 }
+
+.myHeader {
+    font-family: serif;
+   
+}
+
+.myPortfolio {
+    border: 3 solid tomato;
+}
+
+
+li {
+    float: left;
+  }
+  
+  li a {
+    display: inline;
+  
+   
+  }
