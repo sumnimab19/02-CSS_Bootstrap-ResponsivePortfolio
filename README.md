@@ -25,3 +25,9 @@ Each page has links to the other pages at the top on Navigator Bar. Brand Name (
 
 
 ## Screenshot
+
+Small Screen:
+
+![Image 4-9-20 at 10 06 PM](https://user-images.githubusercontent.com/55207625/78964400-e0a48d00-7aae-11ea-9650-82b47189bad8.jpeg)
+![Image 4-9-20 at 10 07 PM](https://user-images.githubusercontent.com/55207625/78964401-e26e5080-7aae-11ea-95cc-a189e8c0eb1a.jpeg)
+![Image 4-9-20 at 10 07 PM](https://user-images.githubusercontent.com/55207625/78964407-e4381400-7aae-11ea-919b-5334ca67fb63.jpeg)
