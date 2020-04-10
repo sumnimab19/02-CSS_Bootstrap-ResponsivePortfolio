@@ -40,3 +40,7 @@ Medium Screen:
 
 Large Screen:
 
+
+![Image 4-9-20 at 10 18 PM](https://user-images.githubusercontent.com/55207625/78964866-41809500-7ab0-11ea-8300-7f0b5cb0c5bb.jpeg)
+![Image 4-9-20 at 10 19 PM](https://user-images.githubusercontent.com/55207625/78964869-43e2ef00-7ab0-11ea-8630-88e0e26a2ea1.jpeg)
+![Image 4-9-20 at 10 19 PM](https://user-images.githubusercontent.com/55207625/78964872-45acb280-7ab0-11ea-9788-a44ed0ebf286.jpeg)
