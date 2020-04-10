@@ -26,19 +26,19 @@ Each page has links to the other pages at the top on Navigator Bar. Brand Name (
 
 ## Screenshot
 
-###Small Screen:
+### Small Screen:
 
 ![Image 4-9-20 at 10 06 PM](https://user-images.githubusercontent.com/55207625/78964400-e0a48d00-7aae-11ea-9650-82b47189bad8.jpeg)
 ![Image 4-9-20 at 10 07 PM](https://user-images.githubusercontent.com/55207625/78964401-e26e5080-7aae-11ea-95cc-a189e8c0eb1a.jpeg)
 ![Image 4-9-20 at 10 07 PM](https://user-images.githubusercontent.com/55207625/78964407-e4381400-7aae-11ea-919b-5334ca67fb63.jpeg)
 
-###Medium Screen:
+### Medium Screen:
 
 ![Image 4-9-20 at 10 12 PM](https://user-images.githubusercontent.com/55207625/78964596-98399f00-7aaf-11ea-8a11-31a632f713aa.jpeg)
 ![Image 4-9-20 at 10 12 PM](https://user-images.githubusercontent.com/55207625/78964597-996acc00-7aaf-11ea-824c-0fdab4bca2b8.jpeg)
 ![Image 4-9-20 at 10 13 PM](https://user-images.githubusercontent.com/55207625/78964601-9bcd2600-7aaf-11ea-899d-45f285b417c6.jpeg)
 
-###Large Screen:
+### Large Screen:
 
 
 ![Image 4-9-20 at 10 18 PM](https://user-images.githubusercontent.com/55207625/78964866-41809500-7ab0-11ea-8300-7f0b5cb0c5bb.jpeg)
