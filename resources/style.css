@@ -24,23 +24,31 @@ hr {
     border: 1px solid rgb(63, 61, 61);
 }
 
-.myPicture {
-    margin-bottom: 10px;
-}
-
+/* Page heading text 'About Me', 'Portfolio', 'Contact' formatting */
 .myHeader {
     font-family: serif;
     font-size: 34px;
 }
 
+/* Formatting <p> tag on 'About Me' page */
+.myParagraph {
+    line-height: 1.6rem;
+    color: rgba(44, 39, 39, 0.774);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Formatting <img> tag on 'Portfolio' page */
 .myPortfolio img {
     margin-bottom: 10px;
 }
 
+/* Formatting <footer> tag */
 .myFooter {
     border-top: 7px solid  rgb(18, 168, 168);
 }
 
+
+/* Formatting container to show width in Medium Screen */
 @media (min-width: 768px)  {
     .container-md {
         width: 90%;
@@ -48,6 +56,7 @@ hr {
     }
 }
 
+/* Formatting container to show width in Large Screen */
 @media (min-width: 1024px)  {
     .container-md {
         width: 80%;
@@ -55,13 +64,15 @@ hr {
     }
 }
 
+/* Formatting container to show width in Very Large Screen */
 @media (min-width: 1280px)  {
     .container-md {
-        width: 75vw;
+        width: 65vw;
         margin-left: 20px;
     }
 }
 
+/* Formatting navbar-brand for Medium Screen */
 @media (min-width: 768px)  {
     .navbar-brand {
         padding-left: 0;
