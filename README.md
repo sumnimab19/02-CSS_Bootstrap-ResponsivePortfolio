@@ -26,7 +26,7 @@ Besides Bootstrap, few CSS formatting have been used (e.g. @media query) to do s
 3. CSS
 
 
-## Screenshot
+## Screenshots
 
 ### Small Screen:
 
