@@ -10,6 +10,11 @@
     font-size: 34px;
 }
 
+.myLogo {
+    height: 70px;
+    width: 70px;
+}
+
 body {
     background-color: rgb(243, 233, 233);
 }
