@@ -3,7 +3,7 @@
 }
 
 .navbar-brand {
-    background-color: rgb(18, 168, 168);
+    /* background-color: rgb(18, 168, 168); */
     width: 100%;
     text-align: center;
     font-family: serif;
@@ -82,48 +82,6 @@ hr {
     color: wheat;
 }
 
-/* Formatting container to show width in Medium Screen */
-@media (min-width: 768px)  {
-    .container-md {
-        width: 90%;
-        margin-left: 20px;
-    }
-}
-
-/* Formatting container to show width in Large Screen */
-@media (min-width: 1024px)  {
-    .container-md {
-        width: 80%;
-        margin-left: 20px;
-    }
-}
-
-/* Formatting container to show width in Very Large Screen */
-@media (min-width: 1280px)  {
-    .container-md {
-        width: 65vw;
-        margin-left: 20px;
-    }
-}
-
-@media (min-width:376px) {
-    .contentImage:hover div {
-        height: 450px;
-        width: fit-content;
-    }
-}
-
-
-/* Formatting navbar-brand for Medium Screen */
-@media (min-width: 768px)  {
-    .navbar-brand {
-        padding-left: 0;
-        padding-top: 0;
-        text-align: left;
-        width: fit-content;
-        margin-left:20px ;
-    }
-}
 
 
 /* Parent Container */
@@ -154,7 +112,7 @@ hr {
     cursor: pointer;
    }
    
-   .contentImage:hover div{
+   .contentImage:hover div {
     width: 440px;
     height: 450px;
     padding: 8px 15px;
@@ -164,4 +122,50 @@ hr {
 
 .projectLink {
     color:blue;
+}
+
+h4 {
+    text-decoration:underline ;
+}
+
+/* Formatting container to show width in Medium Screen */
+@media (min-width: 768px)  {
+    .container-md {
+        width: 90%;
+        margin-left: 20px;
+    }
+}
+
+/* Formatting container to show width in Large Screen */
+@media (min-width: 1024px)  {
+    .container-md {
+        width: 80%;
+        margin-left: 20px;
+    }
+}
+
+/* Formatting container to show width in Very Large Screen */
+@media (min-width: 1280px)  {
+    .container-md {
+        width: 65vw;
+        margin-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .contentImage:hover div {
+        width: inherit;
+    }
+}
+
+
+/* Formatting navbar-brand for Medium Screen */
+@media (min-width: 768px)  {
+    .navbar-brand {
+        padding-left: 0;
+        padding-top: 0;
+        text-align: left;
+        width: fit-content;
+        margin-left:20px ;
+    }
 }
