@@ -1,3 +1,7 @@
+body {
+    background-image: url('./background.jpg');
+  }
+
 .navbar {
     padding: 0;
 }
@@ -43,6 +47,7 @@ body {
     background-color: white;
     width: 90%;
     padding-bottom: 15px;
+    /* margin-left: 150px; */
 }
 
 hr {
@@ -70,17 +75,41 @@ hr {
 /* Formatting <footer> tag */
 .myFooter {
     border-top: 7px solid  rgb(18, 168, 168);
+
 }
 
-.linkedIn {
+.connect {
+    text-align: center;
+}
+/* .footerSocial{
+    justify-content: space-between;
+    padding: 5px 0;
+} */
+
+.footer__social {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer__social-item {
+    color: #0198e4;
+    font-size: 1.9rem;
+    /* padding-left: 20px; */
+    padding-right: 30px;
+}
+
+
+/* .linkedIn {
     padding-right: 20px;
     color: wheat;
-}
+} */
 
-.gitHub {
+/* .gitHub { */
     /* padding-right: 20px; */
-    color: wheat;
-}
+    /* color: wheat; */
+/* } */
 
 
 
@@ -88,8 +117,8 @@ hr {
 .contentImage{
     position: relative;
     float: left;
-    /* margin-right: 10px; */
-   }
+    margin-bottom: 50px;
+}
    
    /* Child Text Container */
    .contentImage div{
@@ -124,33 +153,33 @@ hr {
     color:blue;
 }
 
-h4 {
+/* h4 {
     text-decoration:underline ;
-}
+} */
 
 /* Formatting container to show width in Medium Screen */
 @media (min-width: 768px)  {
     .container-md {
         width: 90%;
-        margin-left: 20px;
+        margin-top: 50px;
     }
 }
 
 /* Formatting container to show width in Large Screen */
-@media (min-width: 1024px)  {
+/* @media (min-width: 1024px)  {
     .container-md {
         width: 80%;
         margin-left: 20px;
     }
-}
+} */
 
 /* Formatting container to show width in Very Large Screen */
-@media (min-width: 1280px)  {
+@media (min-width: 1280px)  { 
     .container-md {
         width: 65vw;
-        margin-left: 20px;
-    }
-}
+        /* margin-left: 20px; */
+    } 
+} 
 
 @media only screen and (max-width: 1280px) {
     .contentImage:hover div {
