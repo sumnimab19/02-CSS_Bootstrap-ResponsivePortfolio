@@ -1,4 +1,3 @@
-# 02-CSS_Bootstrap-ResponsivePortfolio
 
 # My Portfolio
 
@@ -26,6 +25,6 @@ Besides Bootstrap, few CSS formatting have been used (e.g. @media query) to do s
 3. CSS
 
 ## Link
-https://sumnimab19.github.io/02-CSS_Bootstrap-ResponsivePortfolio/
+
 
 
