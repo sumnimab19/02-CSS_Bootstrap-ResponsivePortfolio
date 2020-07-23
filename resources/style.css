@@ -24,6 +24,11 @@ body {
     width: 450px;
 }
 
+.projectTwo {
+    height: 450px;
+    width: 450px;
+}
+
 .homeworkOne {
     height: 450px;
     width: 450px;
@@ -47,7 +52,7 @@ body {
     background-color: white;
     width: 90%;
     padding-bottom: 15px;
-    /* margin-left: 150px; */
+    /* background-color: rgb(224, 228, 235); */
 }
 
 hr {
@@ -81,10 +86,7 @@ hr {
 .connect {
     text-align: center;
 }
-/* .footerSocial{
-    justify-content: space-between;
-    padding: 5px 0;
-} */
+
 
 .footer__social {
     list-style: none;
@@ -96,22 +98,8 @@ hr {
 .footer__social-item {
     color: #0198e4;
     font-size: 1.9rem;
-    /* padding-left: 20px; */
     padding-right: 30px;
 }
-
-
-/* .linkedIn {
-    padding-right: 20px;
-    color: wheat;
-} */
-
-/* .gitHub { */
-    /* padding-right: 20px; */
-    /* color: wheat; */
-/* } */
-
-
 
 /* Parent Container */
 .contentImage{
@@ -121,14 +109,12 @@ hr {
 }
    
    /* Child Text Container */
-   .contentImage div{
+   .contentImage div {
     position: absolute;
-    /* bottom: 0;
-    right: 0; */
-    background: rgb(35, 155, 185);
-    color: rgb(206, 39, 9);
-    /* margin-bottom: 5px; */
-    font-family: sans-serif;
+    background: rgb(42, 161, 190);
+    color: rgb(190, 67, 10);
+    margin-top: 5px; 
+    font-family: 'Barlow', sans-serif;
     text-align: center;
     opacity: 0;
     visibility: hidden;
@@ -153,9 +139,6 @@ hr {
     color:blue;
 }
 
-/* h4 {
-    text-decoration:underline ;
-} */
 
 /* Formatting container to show width in Medium Screen */
 @media (min-width: 768px)  {
@@ -165,13 +148,6 @@ hr {
     }
 }
 
-/* Formatting container to show width in Large Screen */
-/* @media (min-width: 1024px)  {
-    .container-md {
-        width: 80%;
-        margin-left: 20px;
-    }
-} */
 
 /* Formatting container to show width in Very Large Screen */
 @media (min-width: 1280px)  { 
