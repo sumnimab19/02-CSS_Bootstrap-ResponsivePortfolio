@@ -42,6 +42,7 @@ body {
 .myPicture {
     height: 200px;
     width: 200px;
+    object-fit: cover;
 }
 
 body {
@@ -61,8 +62,8 @@ hr {
 
 /* Page heading text 'About Me', 'Portfolio', 'Contact' formatting */
 .myHeader {
-    font-family: serif;
-    font-size: 34px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
 }
 
 /* Formatting <p> tag on 'About Me' page */
@@ -133,6 +134,11 @@ hr {
     padding: 8px 15px;
     visibility: visible;
     opacity: 0.95; 
+
+/* position: absolute;
+  width:95%;
+  height: 10%;
+  bottom: 0; */
    }
 
 .projectLink {
